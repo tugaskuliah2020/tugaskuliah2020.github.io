@@ -1,0 +1,14 @@
+.kesehatan{
+	/*height: 200px;*/
+	width: 151px;
+}
+.baca:hover{
+	color: black;
+	transition: 0.5s;
+}
+.paragraf{
+	text-indent: 0.5in;
+}
+td{
+	vertical-align: middle;
+}
